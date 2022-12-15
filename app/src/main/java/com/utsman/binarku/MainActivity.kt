@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("ini adalah line baru di edit di github editor")
 
         println("ini perubahan dari feature A")
+
+        println("ini perubahan dari feature B")
     }
 }
