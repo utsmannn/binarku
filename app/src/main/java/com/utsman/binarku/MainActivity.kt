@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         println("ini perubahan dari feature A")
 
         println("ini perubahan dari feature B")
+
+        println("ini perubahan dari feature C")
     }
 }
